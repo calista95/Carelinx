@@ -27,7 +27,7 @@ Your coins:
 
 Enter the integer amount you want your coins to add up to.
 11
-Your coin value: 13
+Your coin value: 11
 
 
 The coins that make up your solution are:
